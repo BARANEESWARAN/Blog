@@ -1,0 +1,25 @@
+header{
+    width:100vh;
+    display: flex;
+width: 100%;
+   
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+ }
+.lightheader{
+background-color:#EDC7B7 ;
+}
+.darkheader{
+    background-color:#5a77bb ; 
+}
+
+ :any-link{
+text-decoration: none;
+
+ }
+ .header-r{
+display: flex;
+gap: 1rem;
+
+ }

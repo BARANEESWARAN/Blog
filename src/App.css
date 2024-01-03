@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.btn-primary ,.btn-primary:hover ,.btn-primary:active, .btn-primary:visited{
+background-color:#a86c4e;
+}
+.darkbg{
+  background-color:rgb(218, 19, 19)!important;
+  height:100%;
+}
+
